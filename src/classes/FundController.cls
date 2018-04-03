@@ -1,4 +1,4 @@
-global with sharing class FundController {
+global with sharing class FundController { 
     
     public class PagedResult {
         
